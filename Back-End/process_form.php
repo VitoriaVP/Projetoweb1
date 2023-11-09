@@ -5,7 +5,7 @@
 
    echo '<h1>Dados do Usuário</h1>';
    echo'<hr>';
-   echo"<p>O usuário $nome tem $idade anos.</p>";
+   echo"<p>O usuário $nome tem $idade anos!</p>";
 
    echo'<a href="http://localhost/vitoria/Projetoweb1/Front-End/index.html"><button>home page</button></a>';
    echo'<button type="button" onclick="javascript:history.back()">voltar</button>';
